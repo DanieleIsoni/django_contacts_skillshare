@@ -1,0 +1,11 @@
+#header, caption {
+    background: #29a7a6 !important;
+}
+
+.breadcrumbs, h2, [type="submit"] {
+    background: #07bdbd !important;
+    color: white !important;
+}
+#changelist-filter li.selected a {
+    color: #07bdbd !important;
+}
